@@ -1,2 +1,2 @@
 # python
-python基礎
+python jupyter notebook コードサンプル
